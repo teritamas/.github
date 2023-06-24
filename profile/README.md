@@ -4,7 +4,7 @@
 
 ## Member
 
-### sey323
+### [sey323](https://github.com/sey323)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=sey323&orgs=teritamas&show_icons=true&theme=flag-india">
@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sey323&orgs=teritamas&langs_count=10&layout=compact&theme=flag-india">
 </a>
 
-### sayako21
+### [sayako21](https://github.com/sayako21)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=sayako21&orgs=teritamas&show_icons=true&theme=flag-india">
